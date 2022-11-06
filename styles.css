@@ -13,3 +13,8 @@ img {
     height: auto;
     margin: 0 auto;
 }
+
+figcaption {
+    text-align: center;
+    margin-top: 20px;
+}
