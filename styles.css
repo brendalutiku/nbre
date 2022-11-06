@@ -1,8 +1,10 @@
+body {
+    margin: 0;
+    background-color: beige;
+}
 h1 {
-    align-items:
-    center;
-    font-weight:
-    bold;
+    text-align: center;
+    font-weight: bold;
 }
 
 img {
